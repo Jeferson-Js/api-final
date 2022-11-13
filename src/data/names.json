@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Jeferson Santos Oliveira",
+        "age": 29,
+        "country": "Brasil",
+        "url": "https://placehold.jp/150x150.png"
+    },
+    {   
+        "id": 2,
+        "name": "Santos Oliveira",
+        "age": 29,
+        "country": "França",
+        "url": "https://placehold.jp/150x150.png"
+    },
+    {
+        "id": 3,
+        "name": "Jackson",
+        "age": 29,
+        "country": "Italia",
+        "url": "https://placehold.jp/150x150.png"
+
+    }
+]
