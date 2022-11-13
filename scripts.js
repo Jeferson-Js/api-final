@@ -1,7 +1,7 @@
 const nameUser = document.querySelector('name');
 
 const fetchNames = async (names) => {
-    const response = await fetch("http:/192.168.0.151:3000/");
+    const response = await fetch("https://api-names.netlify.app/api.json");
     const data = response.json();
 
     return data;
@@ -14,4 +14,3 @@ const renderNames = async (names) => {
     nameUser.innerHTML = data.name;
 }
 
-renderNames()
